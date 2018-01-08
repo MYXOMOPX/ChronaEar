@@ -1,0 +1,25 @@
+{
+  "name": "chrona-ear",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "MYXOMOPX <myxomopx@gmail.com>",
+  "license": "ISC",
+  "dependencies": {
+    "request": "^2.83.0",
+    "xml2js": "^0.4.19",
+    "snowboy": "^1.2.0"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.0.0-beta.36",
+    "babel-core": "^6.26.0",
+    "babel-polyfill": "^6.26.0",
+    "babel-preset-env": "^1.6.1",
+    "babel-preset-stage-0": "^6.24.1",
+    "gulp": "github:gulpjs/gulp#4.0",
+    "gulp-babel": "^7.0.0"
+  }
+}
